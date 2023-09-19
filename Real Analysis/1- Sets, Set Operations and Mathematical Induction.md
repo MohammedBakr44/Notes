@@ -121,8 +121,7 @@ if ${} c \geq -1 {}$, then ${} \forall n \in \mathbb{N} {}$
 $$(***) \quad \quad (1+c)^n \geq 1 + nc$$
 #### proof
 - (Base Case)               
- ${} (1+c)^1 = 1 + 1c {}$  
- holds for ${} n = 1 {}$
+ $(1+c)^1 = 1 + 1c {}$                                                 holds for ${} n = 1 {}$
 -   (Inductive step)
 
 $$ (1+c)^m \geq 1+mc $$
