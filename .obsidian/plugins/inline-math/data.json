@@ -1,0 +1,20 @@
+{
+  "deletionKeys": [
+    {
+      "key": "Backspace",
+      "ctrlKey": false,
+      "metaKey": false,
+      "shiftKey": false,
+      "altKey": false
+    },
+    {
+      "key": "h",
+      "ctrlKey": true,
+      "metaKey": false,
+      "shiftKey": false,
+      "altKey": false
+    }
+  ],
+  "disableDecorations": false,
+  "disableAtomicRanges": false
+}
