@@ -75,6 +75,7 @@ mail.google.com
 - Top Level Domain i.e `.com`
 - Second Level Domain i.e `google`
 - Sub-domain i.e `mail`
+
 **Record types**
 - A: IP address
 - MX: Mail Server
