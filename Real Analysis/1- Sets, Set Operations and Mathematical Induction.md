@@ -1,6 +1,7 @@
 # Purposes of the course
 - Get better with proofs.
 - Proof statements about real numbers, functions and limits.
+- Getting better at real maths.
 # Sets
 #### Def
 `A set is a collection of objects, called elements or members` 
