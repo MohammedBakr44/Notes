@@ -1,3 +1,4 @@
+
 > An *operating system* acts as an intermediary between the user of a computer and the computer hardware.
 
 > An *operating system* is software that manages computer hardware. It also provides a basis for application programs.
@@ -17,6 +18,8 @@
 >The interrupt architecture must store the address of the interrupted instruction.
 
 1- Old designs store the interrupt address in a fixed location.
+
 2- Modern designs store the *return address* on the system stack.
+
 3- If the interrupt routine needs to modify the processor state, it must explicitly save the current state and then restore that state before returning. 
 
