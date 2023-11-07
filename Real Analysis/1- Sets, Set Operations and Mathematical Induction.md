@@ -56,7 +56,7 @@ ${} P \implies Q {}$                                        if P then Q
 	Let B, C be sets proof that 
 
 $${} (B \cup C)^c = B^c \cap C^c {}$$
-   and
+and
 $${} B^c \cap C^c = (B \cup C)^c {}$$
 ##### wts(want to show): 
 $${} (B \cup C)^c \subset B^c \cap C^c {}$$
