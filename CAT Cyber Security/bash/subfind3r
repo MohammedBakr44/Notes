@@ -1,0 +1,78 @@
+#!/bin/bash
+
+Output="out.txt"
+Input=""
+Iterations=1
+Log="sub.log"
+Help() {
+   # Display Help
+   echo "Enumerate subdomains using a txt file as an input"
+   echo
+   echo "Syntax: ./subfind3r [-h|-i|-o|-d|-l]"
+   echo "options:"
+   echo "h     Display this help message"
+   echo "d     Input file."
+   echo "o     Output file.(default: out.txt)"
+   echo "i     Depth of recursive enumeration."
+   echo "l     log file(default: sub.log)."
+   echo
+}
+
+while getopts ":d:o:i:l:h" option; do
+	case $option in
+    d) 
+      Input=$OPTARG;;
+    o)
+      Output=$OPTARG;;
+    i)
+      Iterations=$OPTARG;;
+    l)
+      Log=$OPTARG;;
+    h)
+	    Help
+      exit;;  
+    \?)
+        echo "Error: Invalid option"
+        exit;;
+    esac
+
+done
+
+if [ $OPTIND -eq 1 ]; then Help; fi
+if [ -z $Input -a $OPTIND -gt 1 ]; then echo "You must enter an input using -d"; fi
+
+
+# amass
+  # -df input file
+  # -o output file
+  # -max-depth iterations
+# subfinder
+# -dL input file
+# -o output file
+echo "Enumeration using amass started..."
+amass enum -brute -df $Input -max-depth $Iterations -o $Output
+cp $Output "$Output.orig"
+cat "$Output.orig" | sort -u | awk '{ print $1, $4, $6 }' > $Output
+rm "$Output.orig"
+echo "Enumeration using amass is done"
+echo "$(wc $Output | awk '{ print $1 }') domains found using amass"
+
+echo "Starting subfinder enumeration"
+i="0"
+cp $Output "$Output.orig"
+while [ $i -lt $Iterations ];
+do
+  if [ $i -gt 0 ]; then
+    cp "$Output.sub" "$Output.sub.orig"
+    subfinder -dL "$Output.sub.orig" | sort -u > "$Output.sub"
+    cat "$Output.sub" >> $Output
+    rm "$Output.sub.orig"
+  else 
+    subfinder -dL $Input | sort -u > "$Output.sub"
+    cat "$Output.sub" >> $Output
+  fi
+i=$[$i+1]
+done
+rm "$Output.sub"
+echo "Enumeration is done"
+echo "$(wc $Output | awk '{ print $1 }') domains found"
