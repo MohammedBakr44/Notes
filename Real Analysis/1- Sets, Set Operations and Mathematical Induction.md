@@ -58,17 +58,18 @@ ${} P \implies Q {}$                                        if P then Q
 $$(B \cup C)^c = B^c \cap C^c$$
    and
 $$B^c \cap C^c = (B \cup C)^c$$
-##### wts(want to show): ${} (B \cup C)^c \subset B^c \cap C^c {}$
-   let ${} x \in (B \cup C)^c$  then  $$ x \notin B \cup C \implies x \notin B \land x \notin C  \implies x \in B^c \land x \in C^c \implies x \in B^c \cap C^c$$
+##### wts(want to show): 
+$$ (B \cup C)^c \subset B^c \cap C^c $$
+   let ${} x \in (B \cup C)^c {}$  then  $${} x \notin B \cup C \implies x \notin B \land x \notin C  \implies x \in B^c \land x \in C^c \implies x \in B^c \cap C^c {}$$
    Thus 
 $$(B \cup C)^c \subset B^c \cap C^c$$
 
 
 
 
-##### wts: ${} B^c \cap C^c \subset (B \cup C)^c {}$
+##### wts: ${} {} B^c \cap C^c \subset (B \cup C)^c {} {}$
   let ${} x \in B^c \cap C^c$ then
-$$x \in B^c \land x \in C^c \implies x \notin B \land x \notin C \implies x \notin B \cup C \implies x \in (B \cup C)^c $$
+$${} x \in B^c \land x \in C^c \implies x \notin B \land x \notin C \implies x \notin B \cup C \implies x \in (B \cup C)^c {}$$
    Thus
 $$B^c \cap C^c \subset (B \cup C)^c$$
    Thus by the definition of equality of two sets
