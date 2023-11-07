@@ -51,12 +51,12 @@ ${} P \implies Q {}$                                        if P then Q
 - ${} (B\cap C)^c =  {}$  ${} B^c \cup C^c {}$ 
 - ${} (B \cap C)^c = B^c \cup C^c {}$ 
 - ${} A \setminus (B \cup C) =  {}$ ${} (A \setminus B) \cap (A \setminus C) {}$
-- ${} A \setminus (B \cap C) =  {}$ $(A \setminus B) \cup (A \setminus C)$
+- ${} A \setminus (B \cap C) =  {}$ $(A \setminus B) \cup (A \setminus C) {}$
 ### Proof
-	Let B, C be sets proof that 
+> Let B, C be sets proof that 
 
 $${} (B \cup C)^c = B^c \cap C^c {}$$
-   and
+and
 $${} B^c \cap C^c = (B \cup C)^c {}$$
 ##### wts(want to show): 
 $${} (B \cup C)^c \subset B^c \cap C^c {}$$
