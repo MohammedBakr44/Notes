@@ -6,7 +6,8 @@
 #### Def
 `A set is a collection of objects, called elements or members` 
 #### Empty set
-`A set with no elements denoted by`  ${} \phi$ 
+`A set with no elements denoted by`  ${} \phi {}$ 
+
 
 # Notation
 - ${} a \in S$ (" a is an element of S")
