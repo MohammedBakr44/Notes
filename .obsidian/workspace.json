@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
+                "file": "日本語/文法/動詞.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
+                "file": "日本語/文法/動詞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
+                "file": "日本語/文法/動詞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md"
+                "file": "日本語/文法/動詞.md"
               }
             }
           },
@@ -168,7 +168,10 @@
   },
   "active": "82cccc80b624726d",
   "lastOpenFiles": [
+    "日本語/文法/動詞.md",
     "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
+    "日本語/文法",
+    "日本語",
     "Operating Systems/Introduction.md",
     "CAT Cyber Security/bash/subfind3r",
     "CAT Cyber Security/bash/file",
@@ -180,8 +183,6 @@
     "Trigonometry/Introduction.md",
     "Real Analysis",
     "Operating Systems",
-    "Resources/Twitter thread.md",
-    "Resources",
-    "Trigonometry"
+    "Resources/Twitter thread.md"
   ]
 }

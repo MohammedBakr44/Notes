@@ -7,5 +7,6 @@
   "templater-obsidian",
   "obsidian-discordrpc",
   "obsidian42-brat",
-  "inline-math"
+  "inline-math",
+  "obsidian-admonition"
 ]
