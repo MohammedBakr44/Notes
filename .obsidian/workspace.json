@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "e2f4b1a9e9809c55",
@@ -167,8 +166,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "82cccc80b624726d",
+  "active": "e455b6648225dd63",
   "lastOpenFiles": [
+    "Trigonometry/Introduction.md",
     "日本語/文法/動詞.md",
     "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
     "日本語/文法",
@@ -181,7 +181,6 @@
     "CAT Cyber Security",
     "Notes/LICENSE",
     "Notes",
-    "Trigonometry/Introduction.md",
     "Real Analysis",
     "Operating Systems",
     "Resources/Twitter thread.md"
