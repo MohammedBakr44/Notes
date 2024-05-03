@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/文法/動詞.md",
+                "file": "Real Analysis/Tao I/What, Why, Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/文法/動詞.md",
+                "file": "Real Analysis/Tao I/What, Why, Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語/文法/動詞.md",
+                "file": "Real Analysis/Tao I/What, Why, Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語/文法/動詞.md"
+                "file": "Real Analysis/Tao I/What, Why, Roadmap.md"
               }
             }
           },
@@ -166,11 +166,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e455b6648225dd63",
+  "active": "82cccc80b624726d",
   "lastOpenFiles": [
-    "Trigonometry/Introduction.md",
-    "日本語/文法/動詞.md",
     "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
+    "Real Analysis/Tao I/What, Why, Roadmap.md",
+    "Real Analysis/Tao I",
+    "日本語/文法/動詞.md",
+    "Trigonometry/Introduction.md",
     "日本語/文法",
     "日本語",
     "Operating Systems/Introduction.md",
@@ -182,7 +184,6 @@
     "Notes/LICENSE",
     "Notes",
     "Real Analysis",
-    "Operating Systems",
     "Resources/Twitter thread.md"
   ]
 }
