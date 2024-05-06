@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Analysis/Tao I/What, Why, Roadmap.md",
+                "file": "CAT Cyber Security/RE/PMA/0-Malware Analysis Primer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Analysis/Tao I/What, Why, Roadmap.md",
+                "file": "CAT Cyber Security/RE/PMA/0-Malware Analysis Primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Analysis/Tao I/What, Why, Roadmap.md",
+                "file": "CAT Cyber Security/RE/PMA/0-Malware Analysis Primer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Analysis/Tao I/What, Why, Roadmap.md"
+                "file": "CAT Cyber Security/RE/PMA/0-Malware Analysis Primer.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "82cccc80b624726d",
   "lastOpenFiles": [
-    "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
     "Real Analysis/Tao I/What, Why, Roadmap.md",
+    "CAT Cyber Security/RE/PMA/0-Malware Analysis Primer.md",
+    "CAT Cyber Security/RE/PMA",
+    "CAT Cyber Security/RE",
+    "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
     "Real Analysis/Tao I",
     "日本語/文法/動詞.md",
     "Trigonometry/Introduction.md",
@@ -182,8 +185,6 @@
     "CAT Cyber Security/Networks.md",
     "CAT Cyber Security",
     "Notes/LICENSE",
-    "Notes",
-    "Real Analysis",
     "Resources/Twitter thread.md"
   ]
 }
