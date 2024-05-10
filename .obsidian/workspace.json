@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-01.md",
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-01.md",
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-01.md",
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-01.md"
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-04.md"
               }
             }
           },
@@ -181,7 +181,12 @@
   },
   "active": "08ea54bcd40e311d",
   "lastOpenFiles": [
+    "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-03.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-04.md",
+    "Pasted image 20240510153414.png",
+    "Pasted image 20240510153355.png",
     "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-02.md",
+    "CAT Cyber Security/RE/PMA/0-Malware Analysis Primer.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-01.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-02 1.md",
     "Pasted image 20240510051806.png",
@@ -192,7 +197,6 @@
     "().md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-1",
     "CAT Cyber Security/RE/PMA/Labs",
-    "CAT Cyber Security/RE/PMA/0-Malware Analysis Primer.md",
     "Pasted image 20240510025326.png",
     "Real Analysis/Tao I/What, Why, Roadmap.md",
     "CAT Cyber Security/RE/PMA",
