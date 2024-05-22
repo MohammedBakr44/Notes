@@ -1,0 +1,2 @@
+# Note
+Book's labs doesn't run, and since this is dynamic analysis something running should be used, so [PMAT](https://github.com/HuskyHacks/PMAT-labs/tree/main/labs/1-2.BasicDynamicAnalysis) labs were used instead.

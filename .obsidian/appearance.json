@@ -2,5 +2,7 @@
   "accentColor": "#6348a3",
   "baseFontSize": 17,
   "cssTheme": "Catppuccin",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Noto Sans,UD Digi Kyokasho N-R",
+  "interfaceFontFamily": "Noto Sans,UD Digi Kyokasho N-R"
 }
