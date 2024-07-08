@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-5/L05-01.md",
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-5/L05-01.md",
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-5/L05-01.md",
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-5/L05-01.md"
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.4.md"
               }
             }
           },
@@ -168,12 +168,18 @@
   },
   "active": "e5c521bdd0165ff1",
   "lastOpenFiles": [
-    "CAT Cyber Security/RE/PMA/Labs/Lab-3/README.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.3.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.4.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.2.md",
+    "Pasted image 20240708203019.png",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.1.md",
+    "Drafts/Bernstien-Vazirani.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-6",
     "CAT Cyber Security/RE/PMA/Labs/Lab-5/L05-01.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-3/README.md",
     "Mathematical Physics/1-Mathematical Preliminaries/1-Infinite Series/1.1 Sequences(Thomas).md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-5",
     "Trigonometry/README.md",
-    "Drafts/Bernstien-Vazirani.md",
     "Drafts/Bernstien-Vazirani 1.md",
     "Drafts/1- Should I give up?.md",
     "Drafts",
@@ -190,7 +196,6 @@
     "日本語",
     "Trigonometry",
     "Real Analysis/Tao I/What, Why, Roadmap.md",
-    "Real Analysis/Tao I",
     "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
     "Operating Systems/Introduction.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-04.md",
@@ -207,11 +212,6 @@
     "Pasted image 20240511061055.png",
     "Pasted image 20240510153414.png",
     "Pasted image 20240510153355.png",
-    "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-02 1.md",
-    "Pasted image 20240510051806.png",
-    "Pasted image 20240510042927.png",
-    "README.md",
-    "().md",
-    "Resources/Twitter thread.md"
+    "Pasted image 20240510051806.png"
   ]
 }
