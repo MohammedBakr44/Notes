@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.1.md",
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.1.md",
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.1.md",
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.1.md"
+                "file": "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.2.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "e5c521bdd0165ff1",
   "lastOpenFiles": [
+    "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.1.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.2.md",
     "Pasted image 20240717120841.png",
     "Pasted image 20240717120409.png",
     "Pasted image 20240717112840.png",
@@ -175,7 +177,6 @@
     "Pasted image 20240717112810.png",
     "Pasted image 20240717112755.png",
     "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.4.md",
-    "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.1.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-7",
     "Pasted image 20240708203019.png",
     "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.3.md",
@@ -212,7 +213,6 @@
     "CAT Cyber Security/Networks.md",
     "Pasted image 20240511070251.png",
     "Pasted image 20240511065657.png",
-    "Pasted image 20240511062242.png",
-    "Pasted image 20240511061601.png"
+    "Pasted image 20240511062242.png"
   ]
 }
