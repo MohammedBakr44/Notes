@@ -30,9 +30,13 @@ Looking strings of `.dll` file, we can see an IP `127.26.152.13` which we can us
 
 ## Advanced Static Analysis
 
+### Lab-07-03.exe
+
 We start with `.exe` file, which is used to access files, namely `lab07-03.dll` and `C:\\Windows\\System32\\Kernel32.dll`. 
 
+
 ![](https://i.imgur.com/nYbZvbK.png)
+
 
 It looks for `Lab07-03.dll` and terminates if didn't find it.
 
@@ -45,3 +49,35 @@ This logic leads to the final block of the program
 ![](https://i.imgur.com/Ypa152t.png)
 
 In which the file `Lab-07-03.dll` is copied to `C:\\windows\\system32\\` as `kerne132.dll`.
+
+### Lab-07-03.dll
+
+The `dll` starts by calling [`socket`](https://learn.microsoft.com/en-us/windows/win32/WinSock/windows-sockets-start-page-2) library to perform advanced internet operations.
+
+![](https://i.imgur.com/Ga0bDVI.png)
+
+the second block initiates a connection with `127.26.152.13` which can be a `command and control center`. 
+
+After the connection is established(if not `0x100011DB` will terminate the program). A message with `hello` is sent to the server.
+
+![](https://i.imgur.com/iVc1fH3.png)
+
+
+If the message is received using `recv` function, that continues the logic to check for a specific command.
+
+
+![](https://i.imgur.com/JcDz5he.png)
+
+It checks for `sleep` command here for example which executes a `sleep` command for `393216`ms.
+
+![](https://i.imgur.com/wW501tQ.png)
+
+
+The other command is `exec` which has two options `q` that runs a `sleep` command and `D` which creates a process and return to program's start.
+
+![](https://i.imgur.com/sC8XljJ.png)
+
+## IoCs 
+- `C:\\windows\\system32\\kerne132.dll`
+- `127.26.152.13`
+
