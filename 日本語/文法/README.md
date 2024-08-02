@@ -1,0 +1,94 @@
+# Cure Dolly chekclist
+- [x] Lesson 1: Japanese made easy! What schools never teach. The core Japanese sentence -organic Japanese
+- [x] Lesson 2: Core Secrets. Japanese made easy - unlocking the "code". Learn Japanese from scratch
+- [x] Lesson 3: WA-particle secrets schools don't ever teach. How WA can make or break your Japanese
+- [x] Lesson 4: Japanese past, present, and future tense. How Japanese verb tenses really work
+- [x] Lesson 5: Japanese verb groups and the te-form. Verb groups 1, 2, 3 made easy. Organic Japanese
+- [x] Lesson 6: Japanese "Adjectives" - the real secret that makes them easy. What schools never teach.
+- [x] Lesson 7: Secrets of Japanese negative verbs, and Adjective "conjugations"
+- [x] Japanese conjugation made easy! The super-simple key to all conjugations.
+- [x] Lesson 8: Location, purpose and transformation - keys to the ni particle and he particle
+- [x] Lesson 8b: Japanese particles explained. How they REALLY work.
+- [x] Lesson 9: How textbooks DESTROY your Japanese: No 1 Secret! + Expressing desire: hoshii, tai, tagaru
+- [x] Lesson 10: "Japanese conjugation" myth busted! Also, potential verb form secret unlocked
+- [x] Lesson 11:  Compound sentences, kureru, ageru, more te-form uses
+- [x] Lesson 12: と quotation particle secret - plus compound verbs, compound nouns - and More Alice!
+- [ ] Lesson 13: "Passive Conjugation" debunked: NOT passive. NOT a conjugation. IS easy.
+- [ ] Lesson 14: All About Adverbs: Mo Particle Secret; and more Alice!
+- [ ] Lesson 15: Transitivity- the 3 facts that make it easy. Transitive/intransitive verbs unlocked
+- [ ] Lesson 16: Te-miru, "try doing", ya-particle, kara-particle, exclusive-"and" + more Alice
+- [ ] Lesson 17: How desu/masu RUINS your Japanese! + How to use it correctly. Plus the volitional
+- [ ] Lesson 18: ってtte = はwa?? Mysteries explained! Toshite, toiu, to suru, ou to suru, tteiu
+- [ ] Lesson 19: Causative + "causative passive": what they NEVER tell you! It's logical and super easy
+- [ ] Lesson 20:  "Sore/Sono/Sonna/Sou" etc. how directional words REALLY work!"
+- [ ] Lesson 21: Te oku/te aru: how to REALLY understand them. What they never teach!
+- [ ] Lesson 22: Te-wa, te-mo - topic/comment magic! How 〜ては and 〜ても REALLY work
+- [ ] Lesson 23: だって Datte: what it REALLY means (hint: it's not a word) + dakara, sore kara
+- [ ] Lesson 24: Hearsay and guesses!  〜sou da, 〜sou desu - how they REALLY work.
+- [ ] Lesson 25: らしい Rashii made rational!. Rashii vs sou desu. らしい vs そうです. っぽい ppoi
+- [ ] Lesson 26: The crystalline logic of Japanese similes: のように・のような ・みたいgrammar
+- [ ] Lesson 27: Bakari meanings:: crazy patchwork or logical pattern?
+- [ ] Lesson 28: You ni- one key to all the main uses! It's easy when you know
+- [ ] Lesson 29: Koto ni Suru, Koto ni Naru. The simple logic behind them.
+- [ ] Lesson 30: Japanese conditionals: とTO. What the textbooks don't tell you.
+- [ ] Lesson 31: The BA conditional. What it really means and how to use it easily.
+- [ ] Lesson 32: Conditionals made clear!  Tara, nara - how they really work
+- [ ] Lesson 33: Dake, shika, bakari, nomi: making SENSE of Japanese limiting terms.
+- [ ] Lesson 34: Understand any sentence. Powerful analysis technique.
+- [ ] Lesson 35: Yori, no hou, ippou- how they MAKE SENSE!
+- [ ] Lesson 36: Tokoro- the Japanese concept of Place - Grammar Magic
+- [ ] Lesson 37: Dominate Japanese Text! New structure secrets + "na vs no, naru & taru adjectives"
+- [ ] Lesson 38: Know when "it isn't" means "it is": mysteries of じゃない janai, ではない de wa nai
+- [ ] Lesson 39: The か Ka-particle's Secret Life! "Buried questions", Kana, Monka, Ka dou ka & much more
+- [ ] 3 PITFALLS in Japanese and how to avoid them 【Japanese Structure Lesson 40】
+- [ ] 5 key facts they never tell you about the basic structure of Japanese. Lesson 41
+- [ ] Why textbook "grammar points" are so misleading. Basic word-confusion | まま mama | Lesson 42
+- [ ] Japanese learning PARADIGM SHIFT: Cut through the confusion. Lesson 43
+- [ ] How to use natural Japanese: chau, chatta, how they really work  ちゃう、ちゃった | Lesson 44
+- [ ] Japanese Immersion. First-Step Guide into Self Immersion Technique | Lesson 45
+- [ ] Japanese Word Order MATTERS (more than you think) 2 Simple rules crack tough sentences | Lesson 46
+- [ ] How to Understand Japanese: Your Secret Weapon for breaking down sentences | Lesson 47
+- [ ] Dealing with ambiguity in Japanese 3 Laws that Make Everything Clear! Lesson 48
+- [ ] Japanese Point-of-View Deconfused! -もらう・てもらう morau, te-morau | Lesson 49
+- [ ] 2 Aspects of Japanese that Foreigners Can't Fathom: させてもらう Last Secret of the Potential | Lesson 50
+- [ ] Hands-on Japanese: How to read a Japanese Kaidan (ghost story) | Lesson 51
+- [ ] In-DEPTH Japanese Sentence Analysis in Real Native Context | Lesson 52
+- [ ] Enjoy Japanese Horror in Japanese  | Lesson 53
+- [ ] IRREGULARITIES in Japanese and how they work | 見る、見られる、見れる、見える、聞く、聞ける、聞こえる | Lesson 54
+- [ ] Secrets of the で particle. Why do we say みんなで行く? and 世界で一番? | Lesson 55
+- [ ] "Agility": The Vital Language Factor No One Mentions. Deeper secrets of は and の particles| Lesson 56
+- [ ] 込む Komu and the secret of multi-meaning Japanese words | Lesson 57
+- [ ] Japanese double particles. How they really work | lesson 58: Particle Combinations
+- [ ] Untranslatable Japanese exists! How to understand it | Lesson 59
+- [ ] The OTHER HALF of Japanese Structure - non-logical topic/comment structure | Lesson 60
+- [ ] WA and GA: the Deeper Secrets! The yin-yang structure of Japanese | Lesson 61
+- [ ] Te-oku vs te-shimau, helper verb secrets. ておく てしまう | Lesson 62
+- [ ] WILD sentence enders in real life Japanese かい、だい,、ぜ、ぞ、さ、から、し、ちょうだい | Lesson 63
+- [ ] "Things" get Strange! Mono and Koto: advanced secrets: ものだ, ことがある, こと as sentence-ender | Lesson 64
+- [ ] Coming and Going: Deeper secrets of 行く and 来る、て行くand て来る (te-iku, te-kuru) | Lesson 65
+- [ ] HIDDEN Subjects in Japanese - and how to understand them | Lesson 66
+- [ ] もう and まだ the time-relations that make sense of them (mou and mada) Lesson 67
+- [ ] Japanese "underlying logic": わけ、そういうわけ、わけが分からない、わけない | Lesson 68
+- [ ] Japanese in the Wild! Tackling native Japanese material. Kaidan 4 | Lesson 69
+- [ ] かける / かかる All-purpose Japanese Explained! Means everything = means nothing? Or real logic? Lesson 70
+- [ ] Japanese counters: 3 simple rules make them easy! Lesson 71
+- [ ] Best kept secrets of Japanese structure - The Great Connector (い-stem magic) | Lesson 72
+- [ ] Secrets of 気 Ki - ki ni naru, ki ni suru, ki ga suru, ki ni iru etc. 気になる、気にする、気がする、気に入る | Lesson 73
+- [ ] LOVE and other mysteries of KOTO! あなたのことが好き、私のことが嫌い、ということ、そういうこと、どういうこと、そんなこと | Lesson 74
+- [ ] Japanese is NOT English: How expression strategies differ | polite Eihongo=rude Japanese | Lesson 75
+- [ ] The Right Opening? aku, akeru, hiraku, hirakeru | あく、あける、ひらく、ひらける、 開く、開け | Lesson 76
+- [ ] Real Japanese Structure vs Tae Kim - Structural Review of Tae Kim's Japanese Grammar | Lesson 77
+- [ ] Breaking the Core: Tae Kim vs the Copula | Japanese Structure-Based Critical Review | Lesson 78
+- [ ] 1/3 of all Japanese sentences cracked! Deeper secret of the copula. +The Tae Kim fallacy | Lesson 79
+- [ ] Understand Japanese Even When they Leave Bits Out! Dropped particles & casual omissions | Lesson 80
+- [ ] At last! The TOTAL structure of Japanese! Global principle of all Japanese word-forms. Lesson 81
+- [ ] なんて Nante なんか Nanka など Nado: 3 Common words clarified. Lesson 82
+- [ ] Three Levels of Command in Japanese: て-form commands, なさい,  な-commands, imperative form. Lesson 83
+- [ ] De-aru and the Structure of Japanese. What older copulas tell us: である, であります、でござる、でございます | Lesson 84
+- [ ] まい the negative helper that never gets explained properly | Lesson 85
+- [ ] 次第 (shidai) - What it really means and how it really works. Lesson 86
+- [ ] Japanese Structure INVERTED: the strange life of しか. How it really works. Lesson 87
+- [ ] The Indestructible Core of Japanese. How the logic never fails. Xをしたい vs Xがしたい  | Lesson  88
+- [ ] De-mystifying Japanese. Let the world's most logical language shine! The Universal Subject Lesson 89
+- [ ] Japanese Punctuation: How it REALLY works. Lesson 90
+- [ ] Outer Limits! 限る Kagiru 限り Kagiri -  Its many meanings and how they work 知っている限り、とは限らない and more
