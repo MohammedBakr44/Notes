@@ -1,4 +1,4 @@
-# Cure Dolly chekclist
+# Cure Dolly checklist
 - [x] Lesson 1: Japanese made easy! What schools never teach. The core Japanese sentence -organic Japanese
 - [x] Lesson 2: Core Secrets. Japanese made easy - unlocking the "code". Learn Japanese from scratch
 - [x] Lesson 3: WA-particle secrets schools don't ever teach. How WA can make or break your Japanese
