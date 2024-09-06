@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/ws9v5yfa#RuA4R3rluNjnTzMe5dF9FU834fN82b+7t1+lO9dRssY
+share_updated: 2024-08-04T02:34:46+03:00
+---
 
 1- The program uses services to achieve persistence. We can see it uses functions related to services.
 
