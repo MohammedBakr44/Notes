@@ -1,3 +1,4 @@
+[Cure Dolly Textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
 # Cure Dolly checklist
 - [x] Lesson 1: Japanese made easy! What schools never teach. The core Japanese sentence -organic Japanese
 - [x] Lesson 2: Core Secrets. Japanese made easy - unlocking the "code". Learn Japanese from scratch
