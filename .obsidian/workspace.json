@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/文法/日本語能力試験/N4.md",
+                "file": "日本語/文法/日本語能力試験/N3/Try!.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/文法/日本語能力試験/N4.md",
+                "file": "日本語/文法/日本語能力試験/N3/Try!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語/文法/日本語能力試験/N4.md",
+                "file": "日本語/文法/日本語能力試験/N3/Try!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語/文法/日本語能力試験/N4.md"
+                "file": "日本語/文法/日本語能力試験/N3/Try!.md"
               }
             }
           },
@@ -179,10 +179,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "81da7cb1f90d3e0f",
+  "active": "e455b6648225dd63",
   "lastOpenFiles": [
     "日本語/文法/日本語能力試験/N5.md",
     "日本語/文法/日本語能力試験/N4.md",
+    "日本語/文法/日本語能力試験/N3/Try!.md",
+    "日本語/文法/日本語能力試験/N3",
     "日本語/文法/README.md",
     "Cure.md",
     "日本語/文法/CureDolly/動詞.md",
@@ -213,7 +215,6 @@
     "CAT Cyber Security/RE/LMA",
     "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.1.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.1.md",
-    "CAT Cyber Security/RE/PMA/Labs/Lab-5/L05-01.md",
     "Pasted image 20240717120841.png",
     "Pasted image 20240717120409.png",
     "Pasted image 20240717112840.png",
@@ -223,7 +224,6 @@
     "CAT Cyber Security/RE/PMA/Labs/Lab-7",
     "Pasted image 20240708203019.png",
     "CAT Cyber Security/RE/PMA/Labs/Lab-6",
-    "CAT Cyber Security/RE/PMA/Labs/Lab-5",
     "Pasted image 20240511070251.png",
     "Pasted image 20240511065657.png",
     "Pasted image 20240511062242.png"
