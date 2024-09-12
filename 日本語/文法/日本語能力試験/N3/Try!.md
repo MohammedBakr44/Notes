@@ -44,7 +44,7 @@ Using 「～」as an example for 「...」 which reached an unusual extent.
 
 ![](https://us-southeast-1.linodeobjects.com/immersionkit/media/anime/Demon%20Slayer%20-%20Kimetsu%20no%20Yaiba/media/Kimetsu_no_Yaiba_26_0.08.06.330.jpg)
 
-![](https://us-southeast-2.linodeobjects.com/immersionkit/media/anime/Demon%20Slayer%20-%20Kimetsu%20no%20Yaiba/media/Kimetsu_no_Yaiba_26_0.08.04.970-0.08.07.540.mp3)
+![](https://us-southeast-1.linodeobjects.com/immersionkit/media/anime/Demon%20Slayer%20-%20Kimetsu%20no%20Yaiba/media/Kimetsu_no_Yaiba_26_0.08.04.970-0.08.07.540.mp3)
 
 ## ていく
 
