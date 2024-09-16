@@ -18,8 +18,47 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f26cbfc8fb59365",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f7266773bbb3df05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語/文法/日本語能力試験/N4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4787814f51a698e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語/文法/日本語能力試験/N3/Try!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/文法/日本語能力試験/N5.md",
+                "file": "日本語/文法/日本語能力試験/N3/Try!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語/文法/日本語能力試験/N5.md",
+                "file": "日本語/文法/日本語能力試験/N3/Try!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語/文法/日本語能力試験/N5.md"
+                "file": "日本語/文法/日本語能力試験/N3/Try!.md"
               }
             }
           },
@@ -164,14 +203,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "c1105db60ef88018",
+  "active": "f4787814f51a698e",
   "lastOpenFiles": [
-    "日本語/文法/日本語能力試験/N3/Try!.md",
-    "日本語/文法/日本語能力試験/N4.md",
     "日本語/文法/日本語能力試験/N5.md",
+    "日本語/文法/日本語能力試験/N4.md",
+    "日本語/文法/日本語能力試験/N3/Try!.md",
+    "Homepage.md",
+    "[[Try!.md",
+    "日本語/文法/CureDolly/動詞.md",
+    "Home.md",
+    "home.jpg",
+    "home.jpg.crdownload",
     "日本語/文法/日本語能力試験/media/君の名は例4.mp3",
     "日本語/文法/日本語能力試験/media/mix_05s (audio-joiner.com) (3).mp3.crdownload",
     "日本語/文法/日本語能力試験/media/君の名は例3.mp3",
@@ -184,8 +230,6 @@
     "Mathematical Physics/1-Mathematical Preliminaries/1-Infinite Series/1.1 Sequences(Thomas).md",
     "日本語/文法/動詞.md",
     "日本語/文法/日本語能力試験",
-    "日本語/文法/CureDolly/動詞.md",
-    "日本語/文法/CureDolly",
     "QM for Mathematicians/Lec 1.md",
     "Mathematical Physics/README.md",
     "CAT Cyber Security/Networks.md",
@@ -209,10 +253,6 @@
     "Pasted image 20240807221333.png",
     "Pasted image 20240807221220.png",
     "Pasted image 20240807220249.png",
-    "Pasted image 20240807220047.png",
-    "Pasted image 20240807220029.png",
-    "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
-    "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.2.md",
-    "日本語/文法/README.md"
+    "Pasted image 20240807220047.png"
   ]
 }

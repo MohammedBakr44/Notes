@@ -4,5 +4,9 @@
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "textFontFamily": "Noto Sans,UD Digi Kyokasho N-R",
-  "interfaceFontFamily": "Noto Sans,UD Digi Kyokasho N-R"
+  "interfaceFontFamily": "Noto Sans,UD Digi Kyokasho N-R",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
 }
