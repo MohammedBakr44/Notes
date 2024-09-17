@@ -1,4 +1,5 @@
-![[home.jpg]]
+![](home.jpg)
+
 
 
 ```contributionGraph
