@@ -44,12 +44,14 @@ cellStyle:
   minWidth: 8px
 
 ```
+
 ## 最近
 ```dataview
 LIST file.mtime
 SORT file.mtime DESC
 LIMIT 3
 ```
+
 ## カレンダー
 ```dataview
 CALENDAR file.mtime AS "Date Modified"
