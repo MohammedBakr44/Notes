@@ -1,7 +1,6 @@
 ![](home.jpg)
 
 
-
 ```contributionGraph
 title: Contributions
 graphType: default
