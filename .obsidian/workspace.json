@@ -154,12 +154,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +181,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "b8436b8d6332a0af",
+  "active": "5105e5c11e1384f3",
   "lastOpenFiles": [
     "日本語/文法/日本語能力試験/N3/Try!.md",
     "日本語/文法/日本語能力試験/N4.md",
