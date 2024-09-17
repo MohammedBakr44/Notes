@@ -4,23 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d93125f4776dfdd8",
+        "id": "7d900d76ca0c38ab",
         "type": "tabs",
         "children": [
           {
-            "id": "bb871c2ec2b7aa06",
+            "id": "c1105db60ef88018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "日本語/文法/日本語能力試験/N4.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8436b8d6332a0af",
+            "id": "f7266773bbb3df05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語/文法/日本語能力試験/N4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4787814f51a698e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語/文法/日本語能力試験/N3/Try!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e70d477bb6010ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,16 +177,15 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
@@ -178,31 +200,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "5105e5c11e1384f3",
+  "active": "c1105db60ef88018",
   "lastOpenFiles": [
-    "日本語/文法/日本語能力試験/N3/Try!.md",
-    "日本語/文法/日本語能力試験/N4.md",
+    "日本語/文法/日本語能力試験/media/ながら.mp3",
+    "日本語/文法/日本語能力試験/media/mix_07s (audio-joiner.com) (1).mp3.crdownload",
+    "日本語/文法/日本語能力試験/media/だけ.mp3",
+    "日本語/文法/日本語能力試験/media/mix_05s (audio-joiner.com).mp3.crdownload",
     "日本語/文法/日本語能力試験/N5.md",
-    "README.md",
-    "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.3.md",
     "Homepage.md",
-    "日本語/文法/日本語能力試験/media/君の名は例4.mp3",
-    "日本語/文法/日本語能力試験/media/君の名は例3.mp3",
-    "日本語/文法/日本語能力試験/media/君の名は例2.mp3",
-    "日本語/文法/日本語能力試験/media/君の名は例1.mp3",
-    "日本語/文法/日本語能力試験/media/君の名は-かもしれない.mp3",
-    "日本語/文法/日本語能力試験/media/のは-強調.mp3",
-    "日本語/文法/日本語能力試験/media/にくい.mp3",
-    "日本語/文法/日本語能力試験/media/なけらばいけない.mp3",
+    "README.md",
+    "日本語/文法/日本語能力試験/N4.md",
     "日本語/文法/日本語能力試験/media/おきに.mp3",
-    "日本語/文法/日本語能力試験/media",
+    "日本語/文法/日本語能力試験/media/mix_05s (audio-joiner.com) (3).mp3.crdownload",
+    "日本語/文法/日本語能力試験/media/のは-強調.mp3",
+    "日本語/文法/日本語能力試験/media/mix_04s (audio-joiner.com) (2).mp3.crdownload",
+    "日本語/文法/日本語能力試験/media/にくい.mp3",
+    "日本語/文法/日本語能力試験/media/mix_03s (audio-joiner.com) (1).mp3.crdownload",
+    "日本語/文法/日本語能力試験/media/なけらばいけない.mp3",
+    "日本語/文法/日本語能力試験/N3/Try!.md",
+    "[[Try!.md",
+    "日本語/文法/CureDolly/動詞.md",
+    "Home.md",
     "home.jpg",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.3.md",
     "Mathematical Physics/1-Mathematical Preliminaries/1-Infinite Series/1.1 Sequences(Thomas).md",
     "日本語/文法/動詞.md",
-    "日本語/文法/CureDolly/動詞.md",
     "QM for Mathematicians/Lec 1.md",
     "Mathematical Physics/README.md",
     "CAT Cyber Security/Networks.md",
@@ -219,15 +245,12 @@
     "Pasted image 20240816224049.png",
     "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.1.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-11/Lab11.3.md",
-    "CAT Cyber Security/RE/PMA/Labs/Lab-11/Lab11.2.md",
     "Pasted image 20240808012627.png",
     "Pasted image 20240809123401.png",
     "Pasted image 20240808000145.png",
     "Pasted image 20240807221333.png",
     "Pasted image 20240807221220.png",
     "Pasted image 20240807220249.png",
-    "Pasted image 20240807220047.png",
-    "Real Analysis/1- Sets, Set Operations and Mathematical Induction.md",
-    "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.2.md"
+    "Pasted image 20240807220047.png"
   ]
 }
