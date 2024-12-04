@@ -14,14 +14,14 @@
 - [x] Lesson 10: "Japanese conjugation" myth busted! Also, potential verb form secret unlocked
 - [x] Lesson 11:  Compound sentences, kureru, ageru, more te-form uses
 - [x] Lesson 12: と quotation particle secret - plus compound verbs, compound nouns - and More Alice!
-- [ ] Lesson 13: "Passive Conjugation" debunked: NOT passive. NOT a conjugation. IS easy.
-- [ ] Lesson 14: All About Adverbs: Mo Particle Secret; and more Alice!
-- [ ] Lesson 15: Transitivity- the 3 facts that make it easy. Transitive/intransitive verbs unlocked
-- [ ] Lesson 16: Te-miru, "try doing", ya-particle, kara-particle, exclusive-"and" + more Alice
+- [x] Lesson 13: "Passive Conjugation" debunked: NOT passive. NOT a conjugation. IS easy.
+- [x] Lesson 14: All About Adverbs: Mo Particle Secret; and more Alice!
+- [x] Lesson 15: Transitivity- the 3 facts that make it easy. Transitive/intransitive verbs unlocked
+- [x] Lesson 16: Te-miru, "try doing", ya-particle, kara-particle, exclusive-"and" + more Alice
 - [ ] Lesson 17: How desu/masu RUINS your Japanese! + How to use it correctly. Plus the volitional
-- [ ] Lesson 18: ってtte = はwa?? Mysteries explained! Toshite, toiu, to suru, ou to suru, tteiu
-- [ ] Lesson 19: Causative + "causative passive": what they NEVER tell you! It's logical and super easy
-- [ ] Lesson 20:  "Sore/Sono/Sonna/Sou" etc. how directional words REALLY work!"
+- [x] Lesson 18: ってtte = はwa?? Mysteries explained! Toshite, toiu, to suru, ou to suru, tteiu
+- [x] Lesson 19: Causative + "causative passive": what they NEVER tell you! It's logical and super easy
+- [x] Lesson 20:  "Sore/Sono/Sonna/Sou" etc. how directional words REALLY work!"
 - [ ] Lesson 21: Te oku/te aru: how to REALLY understand them. What they never teach!
 - [ ] Lesson 22: Te-wa, te-mo - topic/comment magic! How 〜ては and 〜ても REALLY work
 - [ ] Lesson 23: だって Datte: what it REALLY means (hint: it's not a word) + dakara, sore kara

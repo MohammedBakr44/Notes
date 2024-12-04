@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/krv181he#yEgR1nxEELB5Gn/AbPrLALbr8HDNKqHmtk1eQOVEEc4
-share_updated: 2024-08-13T09:14:56+03:00
+share_updated: 2024-11-13T01:16:07+02:00
 ---
 
 ### Isomorphism
