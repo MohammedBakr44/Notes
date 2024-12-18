@@ -24,33 +24,21 @@
             }
           },
           {
-            "id": "bddfab35d97dd388",
+            "id": "698de39e26c8c3d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QM for Mathematicians/Lec 1.md",
+                "file": "job search/Pentester.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lec 1"
-            }
-          },
-          {
-            "id": "7ce51edfbd3edc47",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "home.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "home"
+              "title": "Pentester"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,21 +202,25 @@
       "media-extended:Open media": false
     }
   },
-  "active": "7ce51edfbd3edc47",
+  "active": "e455b6648225dd63",
   "lastOpenFiles": [
+    "README.md",
+    "job search/Pentester.md",
+    "job search",
+    "Drafts",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-13",
+    "QM for Mathematicians/Lec 1.md",
+    "home.jpg",
     "メール.md",
     "Drafts/メール.md",
     "Drafts",
     "New folder",
-    "home.jpg",
-    "README.md",
     "日本語/文法/日本語能力試験/N3/Try!.md",
     "Untitled.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-3/L3-01.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-3/README.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-3/L3-02.md",
     "日本語/文法/CureDolly/動詞.md",
-    "QM for Mathematicians/Lec 1.md",
     "شيشكسيش.md",
     "日本語/文法/日本語能力試験/N5.md",
     "日本語/文法/日本語能力試験/N4.md",
@@ -247,12 +239,8 @@
     "日本語/文法/日本語能力試験/media/mix_05s (audio-joiner.com).mp3.crdownload",
     "Homepage.md",
     "日本語/文法/日本語能力試験/media/おきに.mp3",
-    "日本語/文法/日本語能力試験/media/mix_05s (audio-joiner.com) (3).mp3.crdownload",
-    "日本語/文法/日本語能力試験/media/のは-強調.mp3",
-    "日本語/文法/日本語能力試験/media/mix_04s (audio-joiner.com) (2).mp3.crdownload",
     "[[Try!.md",
     "Home.md",
-    "CAT Cyber Security/RE/PMA/Labs/Lab-7/Lab-7.3.md",
     "Pasted image 20240819062754.png",
     "Pasted image 20240816224049.png",
     "Pasted image 20240808012627.png",
