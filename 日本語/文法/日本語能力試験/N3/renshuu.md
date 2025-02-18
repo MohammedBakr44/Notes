@@ -125,8 +125,8 @@ To do A has already been decided.</u>
 
 翻訳：He was tired **to the extent he couldn't walk**.
 
-## [ほど](Try!#～ほど...)
-![](Try!#～ほど...)
+## [ほど](Try!.md#～ほど...)
+![](Try!.md#～ほど...)
 
 
 ## ほど～ない
@@ -289,7 +289,7 @@ To do A has already been decided.</u>
 
 ![](https://i.imgur.com/1bI3zuA.png)
 
-例：彼女が私を<span style="color: red"><ruby>騙<rt>だま</rt></ruby>した</span>**せいで**、<span style="color: green">別れ</span>[なければならなかった](N4#なければいけない・なきゃいけない)。
+例：彼女が私を<span style="color: red"><ruby>騙<rt>だま</rt></ruby>した</span>**せいで**、<span style="color: green">別れ</span>[なければならなかった](N4.md#なければいけない・なきゃいけない)。
 
 翻訳：<span style="color: red">She deceived me</span>, **as a result**, <span style="color: green">we had to break up</span>.
 
@@ -312,7 +312,7 @@ To do A has already been decided.</u>
 
 
 ## なら
-![](Try!#～なら...)
+![](Try!.md#～なら...)
 
 
 ## ばいい・ばいい～のに
