@@ -20,7 +20,7 @@ we are interested in `tun0`.
 
 > Note: We are connecting to the IP in 'tun0' because we can only connect to HackTheBox boxes through the VPN connection, as they do not have internet connection, and therefore cannot connect to us over the internet using `eth0`. In a real pentest, you may be directly connected to the same network, or performing an external penetration test, so you may connect through the `eth0` adapter or similar.
 
-The command depends on the OS, refer to [PayloadAllThings](https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet/).
+The command depends on the OS, refer to [PayloadAllThings](https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet/) and [Revshellgen](https://www.revshells.com/.
 
 ## Bind Shell
 
@@ -33,3 +33,10 @@ nc <target_ip> <listening_port>
 ```
 
 ## Updating TTY
+
+```
+export TERM=xterm-256color
+```
+
+*python one is useless, this is a mediate solution that allows clearing the console and removes the dumb character overlap when pressing tab.*
+
