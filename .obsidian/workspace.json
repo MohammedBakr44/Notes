@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/htb-academy/Malware Analysis/2- Windows Internals.md",
+                "file": "Cyber Security/CPTS/Network Enumeration with Nmap/3-Evasion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Windows Internals"
+              "title": "3-Evasion"
             }
           }
         ]
@@ -193,7 +193,13 @@
   },
   "active": "38eeed6c0c016104",
   "lastOpenFiles": [
-    "Cyber Security/htb-academy/Malware Analysis/3-Static Analysis on Linux.md",
-    "Cyber Security/htb-academy/Malware Analysis/2- Windows Internals.md"
+    "Cyber Security/CPTS/Network Enumeration with Nmap/2-Host Discovery.md",
+    "Cyber Security/CPTS/Network Enumeration with Nmap/3-Evasion.md",
+    "Drafts/reflection.md",
+    "زايبر/Checklist.md",
+    "زايبر/Recon.md",
+    "زايبر/BAC・IDOR.md",
+    "Cyber Security/htb-academy/Malware Analysis/2- Windows Internals.md",
+    "Cyber Security/htb-academy/Malware Analysis/3-Static Analysis on Linux.md"
   ]
 }
