@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/CPTS/Network Enumeration with Nmap/3-Evasion.md",
+                "file": "Drafts/reflection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-Evasion"
+              "title": "reflection"
+            }
+          },
+          {
+            "id": "28e630117be742a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "زايبر/HTB-Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTB-Code"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,13 +206,21 @@
       "media-extended:Open media": false
     }
   },
-  "active": "38eeed6c0c016104",
+  "active": "28e630117be742a9",
   "lastOpenFiles": [
+    "زايبر/Recon.md",
+    "زايبر/HTB-Code.md",
+    "زايبر/rakuten.json",
+    "Cyber Security/CPTS/Getting Started/7-Getting a foothold(methodology).md",
+    "Cyber Security/CPTS/Introduction.md",
     "Cyber Security/CPTS/Network Enumeration with Nmap/2-Host Discovery.md",
+    "Cyber Security/CPTS/Network Enumeration with Nmap/1-Enumeration.md",
+    "Drafts/Zig Keylogger/README.md.md",
+    "Drafts/Zig Keylogger/Reference.md",
+    "Drafts/Zig Keylogger",
     "Cyber Security/CPTS/Network Enumeration with Nmap/3-Evasion.md",
     "Drafts/reflection.md",
     "زايبر/Checklist.md",
-    "زايبر/Recon.md",
     "زايبر/BAC・IDOR.md",
     "Cyber Security/htb-academy/Malware Analysis/2- Windows Internals.md",
     "Cyber Security/htb-academy/Malware Analysis/3-Static Analysis on Linux.md"
