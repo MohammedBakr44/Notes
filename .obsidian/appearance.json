@@ -1,12 +1,12 @@
 {
   "accentColor": "#6348a3",
   "baseFontSize": 17,
-  "cssTheme": "Catppuccin",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "textFontFamily": "Noto Sans,UD Digi Kyokasho N-R",
   "interfaceFontFamily": "Noto Sans,UD Digi Kyokasho N-R",
   "enabledCssSnippets": [
-    "dashboard",
-    "dashboard-ReadLineLength"
+    "dashboard-ReadLineLength",
+    "dashboard"
   ]
 }

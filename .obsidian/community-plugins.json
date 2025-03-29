@@ -16,5 +16,6 @@
   "media-extended",
   "homepage",
   "dataview",
-  "contribution-graph"
+  "contribution-graph",
+  "obsidian-vimrc-support"
 ]

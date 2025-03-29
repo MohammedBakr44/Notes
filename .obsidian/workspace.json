@@ -1,19 +1,36 @@
 {
   "main": {
-    "id": "c4afadaa06c4c83f",
+    "id": "15fff1a4b6d665c8",
     "type": "split",
     "children": [
       {
-        "id": "147ac6596e6f20a7",
+        "id": "7d900d76ca0c38ab",
         "type": "tabs",
         "children": [
           {
-            "id": "38eeed6c0c016104",
+            "id": "1b69c28182c8aa53",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "90dc746ebfd196ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Drafts/reflection.md",
+                "file": "Drafts/論文.md",
                 "mode": "source",
                 "source": false
               },
@@ -32,7 +49,7 @@
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB-Code"
+              "title": "論文"
             }
           }
         ],
@@ -42,15 +59,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cf1ba75f5c1122ec",
+    "id": "ff9055cdd28f17dc",
     "type": "split",
     "children": [
       {
-        "id": "c3789589cca985fe",
+        "id": "0882549711f503db",
         "type": "tabs",
         "children": [
           {
-            "id": "67a9738ddcabee4a",
+            "id": "e455b6648225dd63",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +80,7 @@
             }
           },
           {
-            "id": "785cb65deb4f4970",
+            "id": "b6e683c37e4936de",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +97,7 @@
             }
           },
           {
-            "id": "b126237243761ca6",
+            "id": "016a48e03e513f04",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +110,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256
   },
   "right": {
-    "id": "51fd0dd08536abe5",
+    "id": "e2f4b1a9e9809c55",
     "type": "split",
     "children": [
       {
-        "id": "2d7ab3e3a832928d",
+        "id": "6c5b3d57071ab3ee",
         "type": "tabs",
         "children": [
           {
-            "id": "61423e437e75e1ec",
+            "id": "4d3cb50000e0565e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/htb-academy/Malware Analysis/2- Windows Internals.md",
+                "file": "日本語/文法/日本語能力試験/N3/renshuu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,40 +136,50 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2- Windows Internals"
+              "title": "Backlinks for renshuu"
             }
           },
           {
-            "id": "53280d878021ccaa",
+            "id": "b9aa19476e3c4473",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/htb-academy/Malware Analysis/2- Windows Internals.md",
+                "file": "日本語/文法/日本語能力試験/N3/renshuu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2- Windows Internals"
+              "title": "Outgoing links from renshuu"
             }
           },
           {
-            "id": "0b6db6cdb42fb586",
+            "id": "1f0b04f0cacf6241",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "fca52273e1830673",
+            "id": "5105e5c11e1384f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日本語/文法/日本語能力試験/N3/renshuu.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of renshuu"
+            }
+          },
+          {
+            "id": "a8b23f956adf9886",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,21 +191,6 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "2fc5ae0979b522ec",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Cyber Security/htb-academy/Malware Analysis/2- Windows Internals.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2- Windows Internals"
-            }
           }
         ]
       }
@@ -189,6 +201,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,16 +212,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
       "media-extended:Open media": false
     }
   },
+<<<<<<< HEAD
   "active": "28e630117be742a9",
   "lastOpenFiles": [
     "زايبر/Recon.md",
@@ -222,7 +235,55 @@
     "Drafts/reflection.md",
     "زايبر/Checklist.md",
     "زايبر/BAC・IDOR.md",
+=======
+  "active": "90dc746ebfd196ab",
+  "lastOpenFiles": [
+>>>>>>> 23f10342d5d62fbd0966931e9e45471fb21923c7
     "Cyber Security/htb-academy/Malware Analysis/2- Windows Internals.md",
-    "Cyber Security/htb-academy/Malware Analysis/3-Static Analysis on Linux.md"
+    "Cyber Security/htb-academy/Malware Analysis/3-Static Analysis on Linux.md",
+    "Cyber Security/htb-academy/Malware Analysis",
+    "Cyber Security/htb-academy",
+    "Cyber Security/CPTS/Network Enumeration with Nmap/3-Evasion.md",
+    "Cyber Security/CPTS/Network Enumeration with Nmap/2-Host Discovery.md",
+    "Drafts/時刻表.md",
+    "Drafts/Reflection.md",
+    "日本語/文法/CureDolly/第28課.md",
+    "日本語/文法/CureDolly/第27課.md",
+    "日本語/文法/CureDolly/第26課.md",
+    "日本語/文法/CureDolly/第9課.md",
+    "日本語/文法/CureDolly/第15課.md",
+    "Drafts/論文.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-01.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-02.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-04.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-1/L1-03.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.3.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.2.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-6/Lab-6.1.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-5/L05-01.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-3/L3-01.md",
+    "CAT Cyber Security/RE/PMA/Labs/Lab-3/L3-02.md",
+    "QM for Mathematicians/Lec 1.md",
+    "日本語/文法/CureDolly/第8b課.md",
+    "Untitled.md",
+    "202503090418.md",
+    "日本語/文法/みんなの日本語",
+    "Cyber Security/CPTS/Network Enumeration with Nmap",
+    "زايبر",
+    "Cyber Security/CPTS/Getting Started",
+    "Pasted image 20250120060914.png",
+    "Cyber Security/CPTS",
+    "Cyber Security",
+    "job search",
+    "Bernstien-Vazirani",
+    "home.jpg",
+    "Pasted image 20240819062754.png",
+    "Pasted image 20240816224049.png",
+    "Pasted image 20240808012627.png",
+    "Pasted image 20240809123401.png",
+    "Pasted image 20240808000145.png",
+    "Pasted image 20240807221333.png",
+    "Pasted image 20240807221220.png",
+    "Pasted image 20240807220249.png"
   ]
 }
