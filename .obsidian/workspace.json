@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/THM/Crypto-Failure.md",
+                "file": "Cyber Security/كالقابض/الأسبوع الأول/أساسيات الشبكات -  اختبار اختراق تطبيقات الويب.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crypto-Failure"
+              "title": "أساسيات الشبكات -  اختبار اختراق تطبيقات الويب"
             }
           }
         ]
@@ -190,6 +190,12 @@
   },
   "active": "d43391a32cdfba00",
   "lastOpenFiles": [
+    "Cyber Security/Python Module Hijacking.md",
+    "Cyber Security/كالقابض/الأسبوع الأول/أساسيات الشبكات -  اختبار اختراق تطبيقات الويب.md",
+    "Pasted image 20250710043355.png",
+    "Cyber Security/THM/Crypto-Failure.md",
+    "Cyber Security/كالقابض/الأسبوع الأول",
+    "Cyber Security/كالقابض",
     "日本語/kaishi.md",
     "日本語/ar-guide.md",
     "Cyber Security/hunting/Writeups/Reports.md",
@@ -213,15 +219,12 @@
     "Cyber Security/CPTS/1-Getting Started",
     "CAT Cyber Security/RE/overbridge.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-14/Lab 14-1.md",
-    "Cyber Security/THM/Crypto-Failure.md",
     "CAT Cyber Security/RE/PMA/Labs/Lab-14/Notes.md",
     "Pasted image 20250703154259.png",
     "CAT Cyber Security/Networks.md",
     "زايبر/HTB-Path-checklist.md",
     "زايبر/HTB-path.md",
     "Cyber Security/CPTS/Getting Started/5-PrivEsc.md",
-    "Cyber Security/CPTS/Getting Started/6-Transferring Files.md",
-    "Cyber Security/THM/Wreath.md",
     "Pasted image 20250620011348.png",
     "Pasted image 20250620003211.png",
     "Pasted image 20250619232619.png",
